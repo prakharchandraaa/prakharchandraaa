@@ -1,24 +1,111 @@
-# 💫 About Me:
-👩‍💻 About Me<br><br>- 🎓 I’m pursuing B.Tech from United College of Engineering and Research (Prayagraj, Uttar Pradesh, India)  <br>- 💻 I know C, C++, Java, Python, HTML, CSS, and React  <br>- 🚀 I’m exploring Full Stack Development, Software Development, and Web Development  <br>- 🔭 I’m working on improving my problem-solving and development skills  <br>- 👯 I’m open to collaborating on web and software development projects  <br>- 💬 Ask me about programming fundamentals and frontend development  <br>- ⚡ Fun fact: I enjoy building simple and functional applications to sharpen my skills!
+<div align="center">
 
+# 🎮 ＰＬＡＹＥＲ ＯＮＥ ＲＥＡＤＹ 🎮
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Player+1+has+entered+the+game...;Initializing+character+stats...;Loading+digital+realm...;Welcome+to+my+profile!" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_prakharchandra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@prakhar-chandra-5b1411327) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@toadmiyagi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakharchandra09@gmail.com) 
+<img src="https://i.pinimg.com/originals/82/ba/b6/82bab6a73a38ee68579d47d48380e22f.gif" width="100%" alt="Cyberpunk Cityscape Anime Banner" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prakharchandraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prakharchandraaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharchandraaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prakharchandraaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=prakharchandraaa&label=PROFILE+VIEWS&style=for-the-badge&color=00FFCC" alt="Visitor Count" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
 
----
-[![](https://visitcount.itsvg.in/api?id=prakharchandraaa&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👾 【 A B O U T _ M E 】 👾
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*“A passionate coder on a quest to master the digital realm. Armed with a keyboard and fueled by caffeine, I venture through the dark modes of reality.”*
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29teWNwcG9zOHh5eWF4ZjBxZGhzZ2xxcnhxcXlxcHN0cHp2cDBkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJ0g0OESfS/giphy.gif" width="200" style="border-radius: 10px; margin-left: 15px;" alt="Anime Typing Gif" />
+
+- 📌 **Current Quest Line:** Building robust web apps & slaying pesky bugs <br/>
+- ⚔️ **Main Class:** Full-Stack Developer <br/>
+- 🔮 **Current Buff:** Learning System Architecture <br/>
+- 🏆 **Side Quests:** UI/UX wizardry, open-source grinding <br/>
+- 📜 **Lore Addon:** If I'm not coding, I'm probably grinding ranks in competitive games or watching psychological anime. <br/>
+
+<br clear="both"/>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
+
+## ⚡ 【 S K I L L S / P O W E R - U P S 】 ⚡
+
+### ⚔️ Languages (Arsenal)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🛠️ Tools (Inventory)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🎮 Interests (Skill Tree)
+<p align="center">
+  <img src="https://img.shields.io/badge/Game_Dev-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-FF4154?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
+
+## 🚀 【 M I S S I O N S / Q U E S T S 】 🚀
+
+| Quest Title | Description | Status |
+| :---: | :--- | :---: |
+| **[Project Neon Base](#)** | 🟢 A cyberpunk-themed portfolio site built with React & Framer Motion. | `[COMPLETED]` |
+| **[Auto-Battler Engine](#)** | ⚔️ A Unity-based framework for auto-battler mechanics. | `[IN PROGRESS]` |
+| **[Anime Bot 9000](#)** | 🤖 Discord bot for fetching anime waifus and stats. | `[IN PROGRESS]` |
+| **[System Toolkit](#)** | 🛠️ Collection of automation scripts written in Python. | `[COMPLETED]` |
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
+
+## 📈 【 P L A Y E R _ S T A T S 】 📈
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakharchandraaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" alt="Stats"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharchandraaa&theme=radical&hide_border=true&background=0D1117&ring=00FFCC&fire=FF0055&currStreakNum=FFFFFF" alt="Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharchandraaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" alt="Top Langs"/>
+
+### 🐍 The Code Snake
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="snake-placeholder" width="600" />
+*(Note: Replace the GIF above with your GitHub contribution snake URL: `https://raw.githubusercontent.com/prakharchandraaa/prakharchandraaa/output/github-contribution-grid-snake.svg` after setting up the snake action)*
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
+
+## 🏆 【 A C H I E V E M E N T S 】 🏆
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakharchandraaa&label=XP+GAINED&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/badge/RANK-PLATINUM-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUGS_SQUASHED-OVER_9000-FF0000?style=for-the-badge" />
+</p>
+
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
+
+## 🌐 【 M U L T I P L A Y E R _ L O B B Y 】 🌐
+
+**Invite to Party:**
+
+<p align="center">
+  <a href="https://instagram.com/@_prakharchandra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/@prakhar-chandra-5b1411327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@@toadmiyagi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:prakharchandra09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<h3 align="center">✦ ─── ＧＡＭＥ ＯＶＥＲ ─── ✦</h3>
+
+> "Code is like an anime battle: you either win or learn a new move." 
+
+</div>
