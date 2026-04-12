@@ -95,10 +95,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakharchandraaa/prakharchandraaa/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakharchandraaa/prakharchandraaa/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prakharchandraaa/prakharchandraaa/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
-<p align="center"><i>(Placeholder: Setup your GitHub Action to replace this GIF with your actual grid snake URL)</i></p>
 
 <img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/master/waves.gif" width="100%" />
 
