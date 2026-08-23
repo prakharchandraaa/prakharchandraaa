@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates a snake game from a github user contributions graph, output a svg animation at <output>
+      # Generates snake SVG animations from GitHub contributions graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,12 +29,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Push content of dist to the output branch
+      - name: push generated SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
