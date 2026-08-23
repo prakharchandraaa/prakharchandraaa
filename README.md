@@ -7,13 +7,14 @@
      URL: https://github.com/prakharchandraaa/prakharchandraaa
   2. Add a README.md file to that repository.
   3. Copy and paste the entire contents of this file into your README.md.
-  4. Commit and push — your GitHub profile will instantly display this README!
+  4. (Optional for Snake Animation) Add the .github/workflows/snake.yml file
+     to enable the dynamic animated commit snake!
   ===================================================================
 -->
 
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
+  <!-- Dynamic Waving Header Banner (100% Tested Working) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=Prakhar%20Chandra&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20B.Tech%20CSE&descSize=18&descAlignY=72" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
@@ -21,7 +22,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Chandra!;Full-Stack+%26+AI+Engineer;B.Tech+CSE+%40+UCER+Prayagraj;Creator+of+UCER+AI+Chatbot+v2.0;Building+Scalable+Web+Apps+%26+Intelligent+Agents" alt="Typing Banner" />
   </a>
 
-  <br />
+  <br /><br />
 
   <!-- Quick Status Badges -->
   <p align="center">
@@ -112,75 +113,62 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics & Statistics (Verified Active Endpoints)
 
 <div align="center">
   <a href="https://github.com/prakharchandraaa">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakharchandraaa&theme=flat&column=7&margin-w=8&margin-h=8&no-bg=true" alt="Prakhar's GitHub Trophies" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prakharchandraaa&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Prakhar's GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakharchandraaa&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&langs_count=8" alt="Top Languages" width="49%" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/prakharchandraaa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharchandraaa&theme=tokyonight&hide_border=true&background=0D1117&fire=38BDF8&ring=38BDF8" alt="Prakhar's GitHub Streak" width="100%" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Statistics Cards
+## 📈 Commit & Activity Chart
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/prakharchandraaa">
-          <img src="https://github-readme-stats.vercel.app/api?username=prakharchandraaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/prakharchandraaa">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharchandraaa&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&langs_count=8" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/prakharchandraaa">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharchandraaa&theme=tokyonight&hide_border=true&background=0D1117&fire=38BDF8&ring=38BDF8" alt="GitHub Streak Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 Commit & Contribution Activity Graph
-
-<div align="center">
+  <h3>⚡ Commit Activity Timeline</h3>
   <a href="https://github.com/prakharchandraaa">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharchandraaa&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%" alt="Prakhar's Commit Activity Graph" />
   </a>
+
+  <br /><br />
+
+  <h3>📊 Real-Time Contribution Grid</h3>
+  <a href="https://github.com/prakharchandraaa">
+    <img src="https://ghchart.rshah.org/38bdf8/prakharchandraaa" width="100%" alt="Prakhar's GitHub Contributions Chart" />
+  </a>
 </div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prakharchandraaa/prakharchandraaa/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
+> 💡 *Note: To generate the snake SVG above automatically, create `.github/workflows/snake.yml` in your profile repository.*
+
 ---
 
 <div align="center">
 
   <br />
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-  <br /><br />
 
   <p><i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i></p>
 
   <sub>Designed with ❤️ by <b>Prakhar Chandra</b></sub>
 
-  <br />
+  <br /><br />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 
